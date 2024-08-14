@@ -25,4 +25,4 @@ LendingClub, a leading peer-to-peer lending platform, aims to minimise financial
 
 ## Tools and Technologies
 
-- Python, Pandas, Plotly Express, Scikit-Learn, Catboost, XGBoost
+- Python, Pandas, Plotly (Express, Go), Scikit-Learn, Catboost, XGBoost
